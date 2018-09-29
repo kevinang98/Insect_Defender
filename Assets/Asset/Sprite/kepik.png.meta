@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 4d1427341da6d914e821958fae0f3b40
+timeCreated: 1496986819
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kepik_0
+    21300002: kepik_1
+    21300004: kepik_2
+    21300006: kepik_3
+    21300008: kepik_4
+    21300010: kepik_5
+    21300012: kepik_6
+    21300014: kepik_7
+    21300016: kepik_8
+    21300018: kepik_9
+    21300020: kepik_10
+    21300022: kepik_11
+    21300024: kepik_12
+    21300026: kepik_13
+    21300028: kepik_14
+    21300030: kepik_15
+    21300032: kepik_16
+    21300034: kepik_17
+    21300036: kepik_18
+    21300038: kepik_19
+    21300040: kepik_20
+    21300042: kepik_21
+    21300044: kepik_22
+    21300046: kepik_23
+    21300048: kepik_24
+    21300050: kepik_25
+    21300052: kepik_26
+    21300054: kepik_27
+    21300056: kepik_28
+    21300058: kepik_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kepik_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2124
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2124
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2124
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_3
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2124
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_4
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2124
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_5
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 2124
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1593
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1593
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_8
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1593
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_9
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1593
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_10
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1593
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_11
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1593
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1062
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1062
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_14
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1062
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_15
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1062
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_16
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1062
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_17
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1062
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 531
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 531
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_20
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 531
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_21
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 531
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_22
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 531
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_23
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 531
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_25
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_26
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_27
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 0
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_28
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 0
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kepik_29
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 0
+        width: 387
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
