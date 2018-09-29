@@ -1,14 +1,59 @@
 fileFormatVersion: 2
 guid: 4eebd9941f4b2e9428dc6e3a75f8bdf8
-timeCreated: 1493999651
-licenseType: Free
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName: {}
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Missile
+    100002: //RootNode
+    100004: Stand
+    100006: Turret
+    400000: Missile
+    400002: //RootNode
+    400004: Stand
+    400006: Turret
+    2300000: Missile
+    2300002: Stand
+    2300004: Turret
+    3300000: Missile
+    3300002: Stand
+    3300004: Turret
+    4300000: Missile
+    4300002: Stand
+    4300004: Turret
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bolts__Untitled
+    second: {fileID: 2100000, guid: b637ec280368634489bbd4877cb5bf9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main_Turret__Untitled_001
+    second: {fileID: 2100000, guid: c825960425d1c604a80b06190d9c38cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Missile_Launcher_missile_png
+    second: {fileID: 2100000, guid: 2b452fe50879ee74fb47f322a613edf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stand__Untitled
+    second: {fileID: 2100000, guid: 474f6345431bae943ae61e2450263007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turret_Accent__Untitled_001
+    second: {fileID: 2100000, guid: 1477e0b1e1ac4bf41aa5e12d984fbc72, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -21,12 +66,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -34,13 +82,18 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -50,6 +103,7 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
