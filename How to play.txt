@@ -1,0 +1,5 @@
+Klik pada kotak/tile tanah untuk mengeluarkan menu turret lalu pilih turret untuk membuat turret pada tempat tersebut
+Jika uang tidak mencukupi maka turret tidak bisa dibuat
+Player mendapatkan uang dari membunuh serangga
+serangga akan muncul jika waktu wave sudah habis
+Jika live player sudah habis maka permainan berakhir
